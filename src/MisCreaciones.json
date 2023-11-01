@@ -1,0 +1,58 @@
+[
+        {
+            "nombre": "PoliGestion",
+            "descripcion": "Es una App y una página web creadas para distribuir y organizar policias correctamente",
+            "imagen": "https://drive.google.com/uc?export=view&id=1l8vZI7KoP5k2PHzW2pgFhmXBm8QWswm3",
+            "fecha": "24-4",
+            "link": "https://github.com/titanfede25/PoliGestionApp"
+        },
+        {
+            "nombre": "ToDoList",
+            "descripcion": "Pagina web que contiene un TODO List que sirve para organizarse",
+            "imagen": "https://drive.google.com/uc?export=view&id=1X9gWnxLOm0Q884WQLoEN8HH2Z5F2nXxR",
+            "fecha": "24-4",
+            "link": "https://github.com/titanfede25/TODOList.git"
+        },
+        {
+            "nombre": "Buscador de Películas",
+            "descripcion": "Página web en donde se puede buscar películas utilizando la API de OMDB",
+            "imagen": "https://drive.google.com/uc?export=view&id=1gShNHPZF2SvehCr9o8yMHSorzmbEj0SO",
+            "fecha": "19-4",
+            "link": "https://github.com/titanfede25/BuscarPeliculas"
+        },
+        {
+            "nombre": "Gestor de Citas",
+            "descripcion": "Página web que crea y organiza citas para una veterinaria",
+            "imagen": "https://drive.google.com/uc?export=view&id=12azb4gqNsoY0LGQtU6SCRh1UCUihlufe",
+            "fecha": "15-5",
+            "link": "https://github.com/titanfede25/GestionCitas"
+        },
+        {
+            "nombre": "Jugando Con Banderas",
+            "descripcion": "Videojuego web en donde el participante tiene que adivinar la bandera que le aparece en pantalla",
+            "imagen": "https://drive.google.com/uc?export=view&id=1oPOu_B7d20Pbe5MN0QdBk-V11i5nYF06",
+            "fecha": "12-6",
+            "link": "https://github.com/titanfede25/JugandoConBanderas"
+        },
+        {
+            "nombre": "Directorio de Personas",
+            "descripcion": "Página web con una lista de personas junto a todos sus datos y estadísticas",
+            "imagen": "https://drive.google.com/uc?export=view&id=1lBy99Opx6cI5WAXtRbR542hW6H1jxML5",
+            "fecha": "31-7",
+            "link": "https://github.com/titanfede25/DirectorioPersonas"
+        },
+        {
+            "nombre": "Catálogo de Productos",
+            "description": "Comercio electronico de productos variados",
+            "imagen": "https://drive.google.com/uc?export=view&id=1HKms4phCHSH7GyPNiCV2sKiF0PjM0pi7",
+            "fecha": "18-9",
+            "link": "https://github.com/titanfede25/CatalogoProductos"
+        },
+        {
+            "nombre": "TPComidas",
+            "descripcion": "App para poder crear tu menú de un restaurante",
+            "imagen": "https://drive.google.com/uc?export=view&id=1JoBRgZaxXiTRd2OffHhftl-7kbYNx43T",
+            "fecha": "25-8",
+            "link": "https://github.com/titanfede25/TPComidas-DAI"
+        }
+    ]
