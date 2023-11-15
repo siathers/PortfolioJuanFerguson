@@ -31,7 +31,7 @@ const Layout = () => {
               <Link to="/InfoPersonal" className="nav-link">Información Personal</Link>
             </li>
             <li className="nav-item">
-              <Link to="/Favs" className="nav-link">Favoritos</Link>
+              <Link to="/Favoritos" className="nav-link">Favoritos</Link>
             </li>
             <li className="nav-item">
               <Link to="/Contacto" className="nav-link">Contacto</Link>

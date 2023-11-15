@@ -1,7 +1,7 @@
 import {Outlet, Link } from "react-router-dom";
 import '../diseno.css';
 import Destacados from './Destacados';
-import { addToFavorites, removeFromFavorites } from './Favs';
+import { addToFavorites, removeFromFavorites } from './Favoritos';
 
 const Home = () => {
     return (

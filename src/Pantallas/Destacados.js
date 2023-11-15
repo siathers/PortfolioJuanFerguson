@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import listaTrabajos from '../MisCreaciones.json';
-import { addToFavorites, removeFromFavorites } from './Favs';
+import { addToFavorites, removeFromFavorites } from './Favoritos';
 
 function Destacados() {
 
