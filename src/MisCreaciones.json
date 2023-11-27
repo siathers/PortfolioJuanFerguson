@@ -1,17 +1,17 @@
 [
         {
-            "nombre": "PoliGestion",
-            "descripcion": "Es una App y una página web creadas para distribuir y organizar policias correctamente",
-            "imagen": "https://drive.google.com/uc?export=view&id=1l8vZI7KoP5k2PHzW2pgFhmXBm8QWswm3",
-            "fecha": "24-4",
-            "link": "https://github.com/titanfede25/PoliGestionApp"
+            "nombre": "Catálogo de Productos",
+            "description": "E-Comerce de productos variados",
+            "imagen": "https://cdn.discordapp.com/attachments/1096137046877290537/1178161602453848064/image.png?ex=6575237f&is=6562ae7f&hm=86d68ebcd95a1d3bb12b1da0d229c07fbf034210d2d1e78416c21b91c55c101f&",
+            "fecha": "18-9",
+            "link": "https://github.com/komang234/TP-Catalogo-De-Productos"
         },
         {
             "nombre": "ToDoList",
-            "descripcion": "Pagina web que contiene un TODO List que sirve para organizarse",
-            "imagen": "https://drive.google.com/uc?export=view&id=1X9gWnxLOm0Q884WQLoEN8HH2Z5F2nXxR",
-            "fecha": "24-4",
-            "link": "https://github.com/titanfede25/TODOList.git"
+            "descripcion": "Pagina web que tiene una lista de tareas para llevar a cabo.",
+            "imagen": "https://cdn.discordapp.com/attachments/1096137046877290537/1178152184521687090/image.png?ex=65751ab9&is=6562a5b9&hm=a0e5881124a87ea180b8d5c5b7dca9a6b792b0ab1210da52dd08d8db5800b6a2&",
+            "fecha": "25-3",
+            "link": "https://github.com/siathers/TP-2-TODO-List"
         },
         {
             "nombre": "Buscador de Películas",
@@ -30,29 +30,22 @@
         {
             "nombre": "Jugando Con Banderas",
             "descripcion": "Videojuego web en donde el participante tiene que adivinar la bandera que le aparece en pantalla",
-            "imagen": "https://drive.google.com/uc?export=view&id=1oPOu_B7d20Pbe5MN0QdBk-V11i5nYF06",
+            "imagen": "https://cdn.discordapp.com/attachments/1096137046877290537/1178155385140559883/image.png?ex=65751db4&is=6562a8b4&hm=4ae326f08767a25565c6e557fc3dfc38fa64b274325a49fb821892840302cb88&",
             "fecha": "12-6",
-            "link": "https://github.com/titanfede25/JugandoConBanderas"
+            "link": "https://github.com/UlisesBaamonde/TP_Juego_De_Banderas"
+        },
+        {
+            "nombre": "PoliGestion",
+            "descripcion": "Contiene una App y una página web ideadas con el objetivo de distribuir y organizar policias correctamente con sus respectivos recorridos",
+            "imagen": "https://drive.google.com/uc?export=view&id=1l8vZI7KoP5k2PHzW2pgFhmXBm8QWswm3",
+            "fecha": "10-4",
+            "link": "https://github.com/titanfede25/PoliGestionApp"
         },
         {
             "nombre": "Directorio de Personas",
             "descripcion": "Página web con una lista de personas junto a todos sus datos y estadísticas",
-            "imagen": "https://drive.google.com/uc?export=view&id=1lBy99Opx6cI5WAXtRbR542hW6H1jxML5",
+            "imagen": "https://cdn.discordapp.com/attachments/1096137046877290537/1178157757183033374/image.png?ex=65751fea&is=6562aaea&hm=ea3d12f692b44ce31434a54f89289c74193361dda8a7cda29f996810f29e6863&",
             "fecha": "31-7",
-            "link": "https://github.com/titanfede25/DirectorioPersonas"
-        },
-        {
-            "nombre": "Catálogo de Productos",
-            "description": "Comercio electronico de productos variados",
-            "imagen": "https://drive.google.com/uc?export=view&id=1HKms4phCHSH7GyPNiCV2sKiF0PjM0pi7",
-            "fecha": "18-9",
-            "link": "https://github.com/titanfede25/CatalogoProductos"
-        },
-        {
-            "nombre": "TPComidas",
-            "descripcion": "App para poder crear tu menú de un restaurante",
-            "imagen": "https://drive.google.com/uc?export=view&id=1JoBRgZaxXiTRd2OffHhftl-7kbYNx43T",
-            "fecha": "25-8",
-            "link": "https://github.com/titanfede25/TPComidas-DAI"
+            "link": "https://github.com/siathers/TP7Directoriodepersonas"
         }
     ]

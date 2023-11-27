@@ -1,11 +1,12 @@
-/* Estilos generales */
-body {
+.todo {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ebe7a7; /* Color de fondo principal */
+  color: #917c67; /* Color de texto principal */
 }
 
 code {
@@ -13,7 +14,6 @@ code {
     monospace;
 }
 
-/* Estilos específicos para el formulario */
 form {
   max-width: 400px;
   margin: 20px auto;
@@ -39,16 +39,192 @@ input {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #78b395;
   color: white;
   padding: 10px 15px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #5e5953;
 }
 
-/* Otros estilos según las necesidades específicas de tu diseño */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  animation: App-logo-spin infinite 20s linear;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #292b2c; /* Color de fondo del encabezado */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.infoper {
+  max-width: 600px;
+  background-color: #292b2c;
+  color: #f0b0b0;
+  border: 1px solid #ced4da;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.infoper .card-title {
+  color: #2e9aaa;
+}
+
+.infoper .card-text {
+  color: #d3c3c3;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.justify-content-center {
+  justify-content: center !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.futurista {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+  transform: translateZ(0);
+}
+
+.futurista:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+
+.tamañoimg {
+  max-height: 600px;
+  max-width: 1000px;
+  transition: transform 0.3s ease; /* Agregado efecto de transición */
+}
+
+.tamañoimgchica {
+  max-height: 500px;
+  max-width: 700px;
+  transition: transform 0.3s ease; /* Agregado efecto de transición */
+}
+
+.tamañoimg:hover {
+  transform: scale(1.1); /* Efecto de aumento al pasar el ratón */
+}
+
+.my-custom-margin {
+  margin-top: 6rem; 
+  margin-bottom: 6rem;
+}
+
+/* Estilo del Footer */
+.footer {
+  background-color: #4dafe0;
+  color: rgb(223, 187, 68);
+  padding: 20px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.footer a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+/* Estilo de la Barra de Navegación en el Footer */
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.footer-nav a {
+  margin: 0 15px;
+  color: #78b395;
+  transition: color 0.3s ease;
+}
+
+.footer-nav a:hover {
+  color: #5e5953;
+}
+
+/* Animación para el Footer */
+@keyframes slideIn {
+  from {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.footer {
+  animation: slideIn 0.8s ease-out;
+}
+
+/* Estilo de la Barra de Navegación */
+.navbar {
+  background-color: rgb(211, 166, 42); /* Color de fondo de la barra de navegación */
+  padding: 15px;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: #917c67; /* Color de texto de los enlaces */
+  margin: 0 15px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #61dafb; /* Color de resalte al pasar el ratón */
+}
